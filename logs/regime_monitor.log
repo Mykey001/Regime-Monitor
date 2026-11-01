@@ -17,3 +17,9 @@
 2026-11-01 20:18:30,878 - INFO - Model loaded from C:\Users\MYCkey98\Documents\Reversion\models\reversion_bundle.joblib
 2026-11-01 20:18:30,884 - INFO - Trained through: 2026-10-30 20:45:00
 2026-11-01 20:18:30,945 - INFO - MT5 initialized for XAUUSDm
+2026-11-02 00:47:05,959 - INFO - Model loaded from C:\Users\MYCkey98\Documents\Reversion\models\reversion_bundle.joblib
+2026-11-02 00:47:05,966 - INFO - Trained through: 2026-10-30 20:45:00
+2026-11-02 00:47:18,638 - INFO - MT5 initialized for XAUUSDm
+2026-11-02 02:02:07,748 - INFO - Model loaded from C:\Users\MYCkey98\Documents\Reversion\models\reversion_bundle.joblib
+2026-11-02 02:02:07,750 - INFO - Trained through: 2026-10-30 20:45:00
+2026-11-02 02:02:07,789 - INFO - MT5 initialized for XAUUSDm
